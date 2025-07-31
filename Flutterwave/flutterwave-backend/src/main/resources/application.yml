@@ -1,0 +1,6 @@
+flutterwave:
+  client-id: ${CLIENT_ID}
+  client-secret: ${CLIENT_SECRET}
+  encryption-key: ${ENCRYPTION_KEY}
+  token-url: https://idp.flutterwave.com/realms/flutterwave/protocol/openid-connect/token
+  base-url: https://api.flutterwave.cloud/developersandbox
